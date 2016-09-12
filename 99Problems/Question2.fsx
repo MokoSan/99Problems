@@ -20,3 +20,6 @@ let secondLastElement1 ( l : 'a List ) : 'a =
 (* Tests *)
 secondLastElement0 [1;2;3;4] = 3 
 secondLastElement1 [1;2;3;4] = 3
+
+secondLastElement0 [1;]
+secondLastElement1 [2;]
