@@ -12,4 +12,3 @@ let encode0 ( list : 'a List ) : 'b List =
     list 
     |> packDuplicates0 
     |> List.map(fun xs -> List.length xs, List.head xs)
-
