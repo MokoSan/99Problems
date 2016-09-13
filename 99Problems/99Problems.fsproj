@@ -44,8 +44,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
-    <Compile Include="Library1.fs" />
-    <None Include="Script.fsx" />
+    <None Include="Question1.fsx" />
+    <None Include="Question2.fsx" />
+    <None Include="Question3.fsx" />
+    <None Include="Question4.fsx" />
+    <None Include="Question5.fsx" />
+    <None Include="Question6.fsx" />
+    <None Include="Question7.fsx" />
+    <None Include="Question8.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
