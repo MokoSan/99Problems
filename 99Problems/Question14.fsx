@@ -7,3 +7,4 @@ let rec duplicate0 ( l : 'a List ) : 'a List =
     | x :: xs -> x :: x :: duplicate0 xs
 
 duplicate0 [1;2;3]
+duplicate0 [1;]
