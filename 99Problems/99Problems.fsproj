@@ -60,6 +60,8 @@
     <None Include="Question16.fsx" />
     <None Include="Question17.fsx" />
     <None Include="Question18.fsx" />
+    <None Include="Question20.fsx" />
+    <None Include="Question21.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
